@@ -35,8 +35,7 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure
 
-![ER DIAGRAM](<img width="709" height="1001" alt="ER diagram" src="https://github.com/user-attachments/assets/c38ef8d2-6b01-4a07-8d99-e19369e7c5ec" />
-)
+![ER DIAGRAM](C:\Users\Abhijith devkar\OneDrive\Desktop\LBS_project\ER diagram.png)
 
 
 
