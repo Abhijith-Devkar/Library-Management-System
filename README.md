@@ -7,8 +7,18 @@
 **Database**: `library1_db`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
+
+
+
+ 
+ 
+ 
  ![library](https://t3.ftcdn.net/jpg/02/66/01/52/360_F_266015225_sIO1nQowwDbk8SxmW6VzKyC2a4rqrNca.jpg)
  
+
+
+
+
 
 ## Objectives
 
@@ -17,10 +27,24 @@ This project demonstrates the implementation of a Library Management System usin
 3. **CTAS (Create Table As Select)**: Utilize CTAS to create new tables based on query results.
 4. **Advanced SQL Queries**: Develop complex queries to analyze and retrieve specific data.
 
+
+
+
+
+
+
 ## Project Structure
 
 ![ER DIAGRAM](<img width="709" height="1001" alt="ER diagram" src="https://github.com/user-attachments/assets/c38ef8d2-6b01-4a07-8d99-e19369e7c5ec" />
 )
+
+
+
+
+
+
+
+
 
 ### 1. Database Setup
  
