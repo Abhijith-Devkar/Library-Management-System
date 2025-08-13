@@ -7,7 +7,7 @@
 **Database**: `library1_db`
 
 This project demonstrates the implementation of a Library Management System using SQL. It includes creating and managing tables, performing CRUD operations, and executing advanced SQL queries. The goal is to showcase skills in database design, manipulation, and querying.
-
+ 
 
 
  
@@ -35,7 +35,8 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure
 
-![ER DIAGRAM](C:\Users\Abhijith devkar\OneDrive\Desktop\LBS_project\ER diagram.png)
+
+<img width="709" height="1001" alt="ER diagram" src="https://github.com/user-attachments/assets/ba364d42-3107-43fa-bc46-fc0b13de304f" />
 
 
 
