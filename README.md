@@ -19,6 +19,8 @@ This project demonstrates the implementation of a Library Management System usin
 
 ## Project Structure
 
+![library image](https://img.freepik.com/free-vector/library-interior-empty-room-reading-with-books-wooden-shelves_33099-1722.jpg)
+
 ### 1. Database Setup
  
 
